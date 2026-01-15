@@ -51,4 +51,4 @@
 
 - GitHub: https://github.com/Heis-Nifee
 - Twitter: https://twitter.com/Heis_Nifee
-- LinkedIn: https://linkedin.com/in/olojedeJahnifemi 
+- LinkedIn:https://www.linkedin.com/in/olojede-jahnifemi-5027a1395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
