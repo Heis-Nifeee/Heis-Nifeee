@@ -9,7 +9,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
@@ -31,10 +31,10 @@
 
 ## 🚀 What I Build
 
-- 🎨 **Frontend Interfaces** — Clean, responsive UI using HTML, CSS & Tailwind  
-- ⚡ **Interactive Web Apps** — Dynamic user experiences with JavaScript  
-- 🔗 **Web3 Basics** — Learning smart contracts and blockchain fundamentals  
-- 🧱 **Reusable Components** — Scalable and maintainable UI components  
+- **Frontend Interfaces** — Clean, responsive UI using HTML, CSS & Tailwind  
+- **Interactive Web Apps** — Dynamic user experiences with JavaScript  
+- **Web3 Basics** — Learning smart contracts and blockchain fundamentals  
+- **Reusable Components** — Scalable and maintainable UI components  
 
 ---
 
