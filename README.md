@@ -46,19 +46,6 @@ Web3Bridge Alumni. Currently open to full-time roles and freelance work.
 
 <br>
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heis-Nifee&show_icons=true&theme=radical&hide_border=true" alt="Femi's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heis-Nifee&theme=radical&hide_border=true" alt="Femi's GitHub streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heis-Nifee&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<br>
-
 ## Connect
 <p align="left">
   <a href="https://github.com/Heis-Nifee">
