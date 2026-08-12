@@ -7,6 +7,12 @@ I build fast, responsive web apps with React, Next.js, and TypeScript — and sm
 Web3Bridge Alumni. Currently open to full-time roles and freelance work.
 </p>
 
+<p align="left">
+  <a href="https://nifemi.space">
+    <img src="https://img.shields.io/badge/Portfolio-nifemi.space-22d3ee?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 - 🔭 Currently building client sites and Web3 tooling as a freelance developer
 - 🌱 Sharpening my blockchain skills — EVM internals, smart contract security, dApp integration
 - ✍️ I write about EVM fundamentals and publish smart contract security reviews on Hashnode
@@ -34,15 +40,28 @@ Web3Bridge Alumni. Currently open to full-time roles and freelance work.
 
 ## Featured Projects
 
-**[Gridee](https://github.com/Gridee)** — Decentralized solar energy platform for Nigerian communities, ERC-20 token (GRD). `React` `Tailwind` `Solidity`
+**[Gridee](https://github.com/Heis-Nifee)** — Decentralized solar energy platform for Nigerian communities, ERC-20 token (GRD). `React` `Tailwind` `Solidity`
 
-**[Ares protocol](https://github.com/Heis-Nifeee/ARES-protocol)** —a small governance-and-treasury playground built with Foundry .  `solidity`
+**[Vault.AI](https://github.com/Heis-Nifee)** — Web3 dashboard for managing AI agent wallet permissions via EIP-712 delegation. `React` `viem` `MetaMask`
 
-**[FuelSpotter NG](https://github.com/Heis-Nifeee/FuelSpotter-NG-)** — Real-time, crowd-sourced fuel availability tracker for Lagos. `Next.js 14` `Supabase` `Leaflet/OSRM`
+**[FuelSpotter NG](https://github.com/Heis-Nifee)** — Real-time, crowd-sourced fuel availability tracker for Lagos. `Next.js 14` `Supabase` `Leaflet/OSRM`
 
 **[JAMB Smart Study Planner](https://github.com/Heis-Nifee)** — Exam prep app with a 130-question quiz engine, XP system, and streak tracking. `React` `Vite` `Tailwind`
 
 **[Flow-State](https://github.com/Heis-Nifee)** — Per-second ride-payment streaming protocol built on Monad (Monad Blitz Lagos 2026). `Solidity` `React`
+
+<br>
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Heis-Nifee&show_icons=true&theme=radical&hide_border=true" alt="Femi's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heis-Nifee&theme=radical&hide_border=true" alt="Femi's GitHub streak" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heis-Nifee&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
+</p>
 
 <br>
 
